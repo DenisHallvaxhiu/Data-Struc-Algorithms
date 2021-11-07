@@ -91,6 +91,8 @@ class Calculator {
     //       return integerDisplay
     //     }
     //   }
+    
+    // khizar is so sexy
 
     updateDisplay(){
         this.currentOperandTextElement.innerText=this.getDisplayNumber(this.currentOperand)
